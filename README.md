@@ -1,16 +1,13 @@
-# book_management_app
 
-A new Flutter project.
+Assignment: Book Management App Development
+Objective:
+Your task is to develop a simple book management application that allows users to add new books and display the list of books.
+Requirements:
+•	The application should include functionality to:
+o	Add new books.
+o	Display the list of books.
 
-## Getting Started
+•	No database should be used. Instead, you should store the books in a list and ensure that users can add and retrieve books dynamically.
+•	You can design the user interface (UI) according to your preference or adjust it based on the UI provided in the mini-projects lecture slides.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
